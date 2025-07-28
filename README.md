@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Kinha</h1>
+<h1 align="center">Hi 👋, I'm Naman Jain</h1>
 <h3 align="center">A Full Stack Software Engineer, Blockchain Developer, web3 and Builder 🚀</h3>
 
 <p align="center">
