@@ -15,7 +15,7 @@
 - 💼 Skilled in **multi-chain crypto wallet integrations** (Solana, Polygon, Ethereum) and **smart contract interactions**
 - 🧠 Experienced in architecting scalable APIs with **Node.js**, **Symfony PHP**, **MySQL**, and **Redis**
 - 🌱 Currently learning **AWS cloud infra**, **DevOps best practices**, and advanced **DSA for system design**
-- 📨 Reach me at: **sachinkinha78@gmail.com**
+- 📨 Reach me at: **namanjain.9874@gmail.com**
 - 🌐 Portfolio:
 - 📄 Resume: [Download]
 
